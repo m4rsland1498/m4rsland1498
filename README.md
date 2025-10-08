@@ -1,4 +1,4 @@
-![jacobmarsland.com](jacobmarsland.com)
+![jacobmarsland.com](https://jacobmarsland.com/)
 
 
 ## 🌐 Socials:
