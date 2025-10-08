@@ -1,5 +1,4 @@
-# 💫 About Me:
-🐭 I'm currently working on my NEA for my A-Level Computer Science<br>🐍 I have been developing in python for 4 years now<br>🖥 I am now learning Java!<br>🌐 My website is hosted at jacobmarsland.com
+![jacobmarsland.com](jacobmarsland.com)
 
 
 ## 🌐 Socials:
